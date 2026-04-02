@@ -2,7 +2,7 @@
   "dockerfile_lines": [],
   "graphs": {
     "simple_graph": "./simple.py:graph",
-    "router": "./router.py:graph",
+    "router": "./router_copy.py:graph",
     "agent": "./agent.py:graph"
   },
   "env": "./.env",
