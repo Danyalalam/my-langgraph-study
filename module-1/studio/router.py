@@ -38,3 +38,6 @@ builder.add_edge("tools", END)
 graph = builder.compile()
 
 # Example execution
+# The graph will route to the tools node since the LLM will call the multiply tool.
+
+
